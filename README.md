@@ -1,4 +1,5 @@
 🛒 E-Commerce Sales Analytics Dashboard
+
 📌 Project Overview
 
 This project is an interactive E-Commerce Sales Analytics Dashboard developed using Power BI to analyze sales performance, customer behavior, product performance, regional trends, and business profitability.
@@ -13,6 +14,7 @@ Understand customer purchasing behavior.
 Compare regional sales performance.
 Track yearly and monthly sales trends.
 Support strategic business decision-making.
+
 🛠️ Tools & Technologies Used
 Power BI Desktop
 Power Query
@@ -20,7 +22,9 @@ DAX (Data Analysis Expressions)
 Microsoft Excel / CSV Dataset
 Data Modeling
 Interactive Visualizations
+
 📊 Dashboard Pages
+
 1️⃣ Executive Overview
 
 Provides a high-level summary of business performance.
@@ -36,6 +40,7 @@ Revenue by Sales Channel
 Gross Profit Gauge
 Revenue Trend by Year
 Monthly Filters
+
 2️⃣ Sales Performance
 
 Analyzes sales across channels, categories, and years.
@@ -49,6 +54,7 @@ Channel-wise Sales Analysis
 Filters
 Sales Channel
 Year
+
 3️⃣ Regional Analysis
 
 Provides geographical sales performance insights.
@@ -99,6 +105,7 @@ Premium
 VIP
 Enterprise
 Standard
+
 6️⃣ Time Intelligence
 
 Tracks business performance over time.
@@ -129,6 +136,7 @@ Wireless Mouse and LED TV were among the top-performing products.
 Customer Behavior
 Premium and VIP segments generated significant order volume.
 Return rates remained relatively low across customer segments.
+
 🔍 Features
 
 ✅ Interactive Filters (Slicers)
@@ -162,30 +170,12 @@ Gross Profit
 Discounts
 Shipping Cost
 Return Information
+
 📸 Dashboard Preview
-Executive Overview
 
-Provides a complete snapshot of overall business performance.
+![Executive Overview](https://github.com/HimanshuDevgan03/E-Commerce-Data-Analyses-Dashboard/blob/main/Sales%20Performance.png)
+)
 
-Sales Performance
-
-Detailed analysis of categories, channels, and yearly trends.
-
-Regional Analysis
-
-Geographic and regional revenue insights.
-
-Product Deep Dive
-
-Product-level revenue, profit, and order analysis.
-
-Customer Segments
-
-Customer behavior and segmentation analytics.
-
-Time Intelligence
-
-Trend analysis and performance tracking over time.
 
 🚀 Learning Outcomes
 
