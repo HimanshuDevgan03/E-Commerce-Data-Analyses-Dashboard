@@ -173,9 +173,17 @@ Return Information
 
 📸 Dashboard Preview
 
-![Executive Overview](https://github.com/HimanshuDevgan03/E-Commerce-Data-Analyses-Dashboard/blob/main/Sales%20Performance.png)
-)
+![Executive Overview](Images/Executive Overview.png)
 
+![Sales Performance](Images/Sales Performance.png)
+
+![Regional Analyses](Images/Regional Analysis.png)
+
+![Product Deep Dive](Images/Product Deep Dive.png)
+
+![Customer Segments](Images/Customer Segments.png)
+
+![Time Intelligence](Images/Time Intelligence.png)
 
 🚀 Learning Outcomes
 
@@ -194,4 +202,4 @@ Interactive Dashboard Design
 Himanshu Devgan
 B.Tech (Computer Engineering)
 Data Analytics Trainee
-Skills: Power BI, SQL, Python, Excel
+Skills: Power BI, Python, Excel
