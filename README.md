@@ -173,17 +173,17 @@ Return Information
 
 📸 Dashboard Preview
 
-![Executive Overview](Images/Executive Overview.png)
+![Executive Overview](Images/executive_overview.png)
 
-![Sales Performance](Images/Sales Performance.png)
+![Sales Performance](Images/sales_performance.png)
 
-![Regional Analyses](Images/Regional Analysis.png)
+![Regional Analyses](Images/regional_analyses.png)
 
-![Product Deep Dive](Images/Product Deep Dive.png)
+![Product Deep Dive](Images/product_deep_dive.png)
 
-![Customer Segments](Images/Customer Segments.png)
+![Customer Segments](Images/customer_segments.png)
 
-![Time Intelligence](Images/Time Intelligence.png)
+![Time Intelligence](Images/time_intelligence.png)
 
 🚀 Learning Outcomes
 
