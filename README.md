@@ -199,7 +199,11 @@ Data Storytelling
 Interactive Dashboard Design
 
 👨‍💻 Author
+
 Himanshu Devgan
+
 B.Tech (Computer Engineering)
+
 Data Analytics Trainee
+
 Skills: Power BI, Python, Excel
